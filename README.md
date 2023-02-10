@@ -80,3 +80,4 @@ with that of obtanied from the DAC output (PA:4 pin). The agreement is quite sat
 
 ![](./images/mbed6_DAC_wavplayer_compare.jpg)
 
+**Note:** The vertical scale is in arbitrary units, actually the value of 20.0 corresponds to 3.3 V.
